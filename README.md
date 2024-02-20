@@ -1,5 +1,8 @@
 # AlgoRythm
 
+## Note on Code Privacy
+Please note that the code for this project is kept private and is not publicly accessible. This decision was made to protect sensitive information and intellectual property. If you would like to learn more about the project or collaborate, please reach out to me directly.
+
 ## Overview
 AlgoRythm is a music generation application written in Unity and integrated with Chuck. It generates infinite music in the lofi and pop genres, providing users with a never-ending stream of relaxing and immersive tunes. The applicatios algorithm creates unique and evolving compositions, providing an innovative and dynamic listening experience.
 
